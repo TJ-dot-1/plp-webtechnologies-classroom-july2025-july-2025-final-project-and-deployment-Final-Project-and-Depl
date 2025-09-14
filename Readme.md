@@ -1,4 +1,5 @@
 Sips & Spirits Haven - Premium Liquor Store
+Hostes on: sips-chi.vercel.app
 
 A responsive e-commerce website for a premium liquor store featuring a curated selection of spirits, whiskeys, gins, and beers.
 
